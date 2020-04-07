@@ -3,5 +3,5 @@
 using namespace std;
 
 int main() {
-  // Write code here.
+  cout << "I hail from NJ. I'm double jointed. I like going to Disney World.";
 }
